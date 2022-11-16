@@ -192,5 +192,6 @@ public class test {
         }
         System.out.println("frekvens för 0: " + frekvenceAv0 + "\nfrekvens för 1: "
                 + frekvenceAv1 + "\nfrekvens för 2: " + frekvenceAv2);
+        System.out.println("hej");
     }
 }
